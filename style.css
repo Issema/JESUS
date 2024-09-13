@@ -1,0 +1,63 @@
+div.y {
+        
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+div.a {
+    text-align: justify;
+    text-align: center;
+
+}
+
+div.b {
+    margin: 90px;
+    text-align: left;
+}
+
+div.cde{
+    display: flex;
+        align-items: center; /* Aligne les éléments verticalement au centre */
+        padding: 10px;
+}
+
+div.c{
+    margin-top: 90px;
+    text-align: center;
+}
+
+div.d{
+    text-align: center;
+}
+
+div.e{
+    text-align: right;
+    margin-left: 100px;
+
+}
+div.fgh{
+    display: flex;
+        align-items: center; /* Aligne les éléments verticalement au centre */
+        padding: 10px;
+}
+div.x{
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+div.f{
+
+    text-align: center;
+    margin-left: 100px;
+}
+
+div.g{
+    text-align: center;
+    margin-left: 100px;
+}
+
+div.h{
+    text-align: right;
+    margin-left: 100px;
+}
